@@ -1,6 +1,6 @@
 ### ALAN-kun
 
-<img src="" alt="Itsuki-chan" width="300" />
+<img src="https://telegra.ph/file/f80036b93fe596f904ce5.jpg" alt="Itsuki-chan" width="300" />
 
 - 🔭 I’m currently working on : { [`SelfBot WhatsApp`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 I’m currently learning : {JavaScript}
