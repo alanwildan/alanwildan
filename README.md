@@ -1,7 +1,6 @@
-### Hi there 👋
+### ALAN-kun
 
-
-Here are some ideas to get you started:
+<img src="https://telegra.ph/file/159f03510274b8b025b7a.jpg" alt="Itsuki-chan" width="300" />
 
 - 🔭 I’m currently working on : { [`SelfBot WhatsApp`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 I’m currently learning : {JavaScript}
