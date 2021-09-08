@@ -1,6 +1,6 @@
 ### ALAN-kun
 <center>
-<img src="https://telegra.ph/file/2519c6943013948981508.gif" alt="Itsuki-chan" width="250" />
+<img src="https://telegra.ph/file/2519c6943013948981508.gif" width="320">
 </center>
 
 - 🔭 Berkontribusi : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
