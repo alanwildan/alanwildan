@@ -18,6 +18,8 @@
 
 --------
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alanwildan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/alanwildan"><img src="https://github-readme-stats.vercel.app/api?username=alanwildan&show_icons=true&theme=radical"></a></p>
