@@ -1,4 +1,6 @@
-## <img src="https://i.gifer.com/QXjf.gif" width="320">
+### ALAN-kun
+
+<img src="https://telegra.ph/file/f80036b93fe596f904ce5.jpg" alt="Itsuki-chan" width="350" />
 
 - 🔭 Berkontribusi : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 Belajar : {JavaScript}
