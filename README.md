@@ -1,7 +1,4 @@
-### ALAN-kun
-<center>
-<img src="https://i.gifer.com/QXjf.gif" width="320">
-</center>
+## <img src="https://i.gifer.com/QXjf.gif" width="320">
 
 - 🔭 Berkontribusi : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 Belajar : {JavaScript}
