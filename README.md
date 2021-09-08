@@ -2,6 +2,7 @@
 <center>
 <img src="https://telegra.ph/file/f80036b93fe596f904ce5.jpg" alt="Itsuki-chan" width="250" />
 </center>
+
 - 🔭 Berkontribusi : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 Belajar : {JavaScript}
 - 👯 Mencari partner untuk : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
