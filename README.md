@@ -1,6 +1,6 @@
 ### Ngapain Kesini Bang
 <p align="center">
-  <img src="https://i.gifer.com/8Nwv.gif" />
+  <img src="https://github.com/alanwildan/alanwildan/8Nwv.gif" />
 </p>
 
 -----
