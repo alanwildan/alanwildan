@@ -4,6 +4,10 @@
   <img src="https://i.gifer.com/8Nwv.gif" />
 </p>
 
+-----
+
+### ME ❗
+
 - 🔭 Berkontribusi : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
 - 🌱 Belajar : {JavaScript}
 - 👯 Mencari partner untuk : { [`SelfBot`](https://github.com/alanwildan/SELF-WA) }
