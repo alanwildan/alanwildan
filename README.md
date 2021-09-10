@@ -1,6 +1,6 @@
 ### Ngapain Kesini Bang
 <p align="center">
-  <img src="https://github.com/alanwildan/alanwildan/8Nwv.gif" />
+  <img src="https://github.com/alanwildan/alanwildan/1.jpg" />
 </p>
 
 -----
@@ -19,6 +19,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/654rmZwiJjQtKOzjQtfksO?si=PSnCZq4tQDi7DTWle5kZwg&utm_source=copy-link&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/alanwildan/alanwildan/8Nwv.jpg" />
 </p>
 
 --------
