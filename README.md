@@ -3,7 +3,7 @@
   <img src="https://github.com/alanwildan/alanwildan/blob/main/1.gif" width="320/>
 </p>
 
------
+--------
 
 ### ME ❗
 
