@@ -1,6 +1,6 @@
 ### Ngapain Kesini Bang
 <p align="center">
-  <img src="https://github.com/alanwildan/alanwildan/1.jpg" />
+  <img src="https://github.com/alanwildan/alanwildan/blob/main/1.jpg" />
 </p>
 
 -----
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/alanwildan/alanwildan/8Nwv.gif" />
+  <img src="https://github.com/alanwildan/alanwildan/blob/main/8Nwv.gif" />
 </p>
 
 --------
