@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/alanwildan/alanwildan/8Nwv.jpg" />
+  <img src="https://github.com/alanwildan/alanwildan/8Nwv.gif" />
 </p>
 
 --------
