@@ -3,11 +3,10 @@
   <img src="https://github.com/alanwildan/alanwildan/blob/main/1.gif" width="320/>
 </p>
 
+<a href="http://wa.me/6285793432434/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a> <> <a href="https://www.instagram.com/shitpost.id_._/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+
 --------
 
-### Contact 📞
-
-<a href="http://wa.me/6285793432434/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a> <> <a href="https://www.instagram.com/shitpost.id_._/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 
 ### Music Playing 🎧
 
