@@ -1,15 +1,4 @@
-### Ngapain Kesini Bang 🗿
-<p align="center">
-  (https://cardivo.vercel.app/api?name=alanwildan&description=Loe%20Ngentod%20Ngapain%20Kesini&image=https://telegra.ph/file/218b62ea57631a010fcea.jpg?v=4&backgroundColor=%23ecf0f1&instagram=shitpost.id_._&facebook=Alan%20wildan&github=alanwildan&twitter=@Alanwildan&pattern=leaf&colorPattern=%23eaeaea)
-</p>
-</div>
-</div>
- <p align="center">
-<a href="http://wa.me/6285793432434/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a> <> <a href="https://www.instagram.com/shitpost.id_._/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-</p>
-
---------
-
+![My card name](https://cardivo.vercel.app/api?name=alanwildan&description=Loe%20Ngentod%20Ngapain%20Kesini&image=https://telegra.ph/file/218b62ea57631a010fcea.jpg?v=4&backgroundColor=%23ecf0f1&instagram=shitpost.id_._&facebook=Alan%20wildan&github=alanwildan&twitter=@Alanwildan&pattern=leaf&colorPattern=%23eaeaea)
 
 ### Music Playing 🎧
 
