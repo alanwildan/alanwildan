@@ -21,7 +21,5 @@
 
 ### Contact Me 📞
 
-<p align="left"><a href="https://instagram.com/shitpost.id_._" target="blank"><img align="center" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true" alt="yooiamthoriq" height="30" width="40" /></a>
-<p align="left"><a href="https://Wa.me/6282325549376" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" alt="AlanWildan" height="30" width="40" /></a>
-<p align="left"><a href="https://alanwildan-api.herokuapp.com/api" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/web.svg" alt="Rest Api" height="30" width="40" /></a>
+<p align="left"><a href="https://instagram.com/shitpost.id_._" target="blank"><img align="center" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true" alt="yooiamthoriq" height="30" width="40" /></a> <p align="left"><a href="https://wa.me/6285158410062" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" alt="AlanWildan" height="30" width="40" /></a> <p align="left"><a href="https://alanwildan-api.herokuapp.com/api" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/web.svg" alt="Rest Api" height="30" width="40" /></a>
 </p>
