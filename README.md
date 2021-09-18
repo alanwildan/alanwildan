@@ -1,6 +1,6 @@
 ### Ngapain Kesini Bang 🗿
 <p align="center">
-  <img src="https://github.com/alanwildan/alanwildan/blob/main/1.gif" width="320/>
+  (https://cardivo.vercel.app/api?name=alanwildan&description=Loe%20Ngentod%20Ngapain%20Kesini&image=https://telegra.ph/file/218b62ea57631a010fcea.jpg?v=4&backgroundColor=%23ecf0f1&instagram=shitpost.id_._&facebook=Alan%20wildan&github=alanwildan&twitter=@Alanwildan&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 </div>
 </div>
