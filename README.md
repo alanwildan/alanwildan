@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=AlanX404&description=Loe%20Ngentod%20Ngapain%20Kesini&image=https://telegra.ph/file/218b62ea57631a010fcea.jpg?v=4&backgroundColor=%23ecf0f1&instagram=shitpost.id_._&facebook=Alan%20wildan&github=alanwildan&twitter=@Alanwildan&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=AlanX404&description=Loe%20Ngentod%20Ngapain%20Kesini&image=https://x-uploader.alanwildan.repl.co/file/THt1M7J8HdOs.jpg?v=4&backgroundColor=%23ecf0f1&instagram=pler.mp4&facebook=Alan%20wildan&github=alanwildan&pattern=leaf&colorPattern=%23eaeaea)
 
 ### Music Playing 🎧
 
