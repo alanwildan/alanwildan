@@ -1,6 +1,6 @@
 ### Visitor 
 <p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:xxirfanx?theme=rule34">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:alanwildan?theme=rule34">
 </p>
 
 ### Music Playing 🎧
